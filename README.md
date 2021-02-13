@@ -2,11 +2,11 @@
 
 My Vim install on Windows and WSL is pretty good to go as far as editing powershell scripts goes by doing the following:
 
-VIM files and paths on Linux and Windows:
-             ~ == ~
-        ~\.vimrc == _vimrc
-         ~\.vim\ == ~\vimfiles\
-~\.vim\autoload\ == ~\vimfiles\autoload\
+    VIM files and paths on Linux and Windows:
+                 ~ == ~
+            ~\.vimrc == _vimrc
+             ~\.vim\ == ~\vimfiles\
+    ~\.vim\autoload\ == ~\vimfiles\autoload\
 
 Copy vimrc from this repo to where it belongs
 
