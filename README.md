@@ -34,4 +34,4 @@ Install nodejs:
 
 # settings.json
 
-This is just my Windows Terminal config
+Windows Terminal settings, just copy to where it goes
