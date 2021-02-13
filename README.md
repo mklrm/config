@@ -30,6 +30,8 @@ Install nodejs:
     Windows:
         choco install nodejs
 
+ Run :PlugUpgrade and :PlugInstall in VIM
+
 # settings.json
 
 This is just my Windows Terminal config
